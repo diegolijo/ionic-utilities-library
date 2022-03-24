@@ -7,6 +7,12 @@
     "sourceMap": true,
     "declaration": false,
     "downlevelIteration": true,
+    "paths": {
+      "ionic-utilities": [
+        "dist/ionic-utilities/ionic-utilities",
+        "dist/ionic-utilities"
+      ]
+    },
     "experimentalDecorators": true,
     "moduleResolution": "node",
     "importHelpers": true,
